@@ -352,7 +352,7 @@ export const competitive = {
     {
       platform: 'Codeforces',
       handle: '@PowerPeak',
-      value: '74',
+      value: '135',
       label: 'Problèmes résolus',
       description: 'Entraînement régulier sur les problèmes et contests Codeforces pour progresser en algorithmique.',
       badges: [],
